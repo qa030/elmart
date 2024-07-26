@@ -1,0 +1,4 @@
+Start test
+Start Test sel
+Finish test
+Exit system

@@ -1,0 +1,17 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-12 12:46:23.578336
+Start name method: authorization
+
+End time: 2024-07-12 12:46:45.005755
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-12 12:46:45.099355
+Start name method: select_product_1
+

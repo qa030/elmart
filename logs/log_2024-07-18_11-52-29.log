@@ -1,0 +1,56 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-18 11:52:35.420095
+Start name method: authorization
+
+End time: 2024-07-18 11:52:54.301968
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-18 11:52:54.301968
+Start name method: select_product_1
+
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-18 11:53:51.635903
+Start name method: authorization
+
+End time: 2024-07-18 11:54:20.524146
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-18 11:54:31.553772
+Start name method: select_product_2
+
+
+-----
+Test: tests/test_buy_product.py::test_sel (call)
+Start time: 2024-07-18 11:55:38.357158
+Start name method: authorization
+
+End time: 2024-07-18 11:56:29.194636
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_sel (call)
+Start time: 2024-07-18 11:57:43.238495
+Start name method: sel
+
+End time: 2024-07-18 11:57:52.216802
+End name method: sel
+URL: https://elmart-shop.ru/catalog/discounts
+
+-----

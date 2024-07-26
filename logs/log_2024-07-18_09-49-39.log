@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-18 09:49:44.182961
+Start name method: authorization
+
+End time: 2024-07-18 09:49:54.445139
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-18 09:49:54.446139
+Start name method: select_product_1
+
+End time: 2024-07-18 09:49:59.140183
+End name method: select_product_1
+URL: https://elmart-shop.ru/catalog/category/kofevarki?price-min=22765&price-max=105000
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-18 09:50:34.479949
+Start name method: authorization
+
+End time: 2024-07-18 09:50:52.241956
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-18 09:50:52.241956
+Start name method: select_product_2
+
+End time: 2024-07-18 09:51:25.414581
+End name method: select_product_2
+URL: https://elmart-shop.ru/catalog/category/roboty-pylesosy?price-min=16531&price-max=31781
+
+-----

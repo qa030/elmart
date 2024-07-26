@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-21 14:15:22.823675
+Start name method: authorization
+
+End time: 2024-07-21 14:16:01.448837
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-21 14:16:03.782867
+Start name method: select_product_1
+
+End time: 2024-07-21 14:16:49.147426
+End name method: select_product_1
+URL: https://elmart-shop.ru/catalog/category/kofevarki?price-min=30325&price-max=105000
+
+-----

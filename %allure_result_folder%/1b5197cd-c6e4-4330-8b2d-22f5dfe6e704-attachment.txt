@@ -1,0 +1,11 @@
+Start test
+Start Test sel
+Current url https://elmart-shop.ru/
+Нажимаем на кнопку Войти в аккаунт
+Вводим эл.почту
+Вводим пароль
+Нажимаем кнопку Войти
+Проверка по слову успешна
+Finish Test sel
+Finish test
+Exit system

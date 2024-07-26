@@ -1,0 +1,28 @@
+Enter system
+Start test
+Start Test 1
+Current url https://elmart-shop.ru/
+Нажимаем на кнопку Войти в аккаунт
+Вводим эл.почту
+Вводим пароль
+Нажимаем кнопку Войти
+Проверка по слову успешна
+Current url https://elmart-shop.ru/
+Наводимся на элемент
+Нажимаем кнопку кофеварки
+Скроллинл страницы
+Передвигаем ползунок
+Вводим сумму в поле максимального значения
+Нажимаем кнопку применить фильтр
+Скроллинл страницы
+Наводимся на элемент
+Нажимаем кнопку перенести в корзину
+Current url https://elmart-shop.ru/catalog/category/kofevarki?price-min=30325&price-max=105000
+Нажимаем кнопку перейти в корзину
+Проверка по слову успешна
+Current url https://elmart-shop.ru/cart
+Good Value Url
+Наводимся на элемент
+Скриншот выполнен
+Finish Test 1
+Finish test

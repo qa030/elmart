@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-15 10:52:41.773832
+Start name method: authorization
+
+End time: 2024-07-15 10:53:04.482131
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-15 10:53:04.482131
+Start name method: select_product_1
+
+End time: 2024-07-15 10:53:23.403213
+End name method: select_product_1
+URL: https://elmart-shop.ru/catalog/product/binatone-dcm-0722
+
+-----

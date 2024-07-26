@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-16 09:45:15.199339
+Start name method: authorization
+
+End time: 2024-07-16 09:45:22.934778
+End name method: authorization
+URL: https://elmart-shop.ru/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-16 09:45:22.934778
+Start name method: select_product_2
+
+End time: 2024-07-16 09:45:36.370394
+End name method: select_product_2
+URL: https://elmart-shop.ru/catalog/category/roboty-pylesosy
+
+-----
